@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Brieva de Cameros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-02T16:16:40.028Z",
+      "notes": "",
+      "position": {
+        "lat": "42.13180329931318",
+        "lng": "-2.7685546875000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "O Pino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-02T16:16:47.616Z",
+      "notes": "",
+      "position": {
+        "lat": "42.92561416592212",
+        "lng": "-8.305664062500002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Suzak",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-12-02T16:16:54.565Z",
+      "notes": "",
+      "position": {
+        "lat": "45.22922759105907",
+        "lng": "68.55468750000001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Bayan",
+      "country": "Mongolia",
+      "emoji": "🇲🇳",
+      "date": "2024-12-02T16:17:08.511Z",
+      "notes": "",
+      "position": {
+        "lat": "49.16330782625322",
+        "lng": "99.140625"
+      },
+      "id": 4
+    }
+  ]
+}
