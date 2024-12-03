@@ -1,52 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Brieva de Cameros",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-12-02T16:16:40.028Z",
+      "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
       "position": {
-        "lat": "42.13180329931318",
-        "lng": "-2.7685546875000004"
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
       },
-      "id": 1
+      "id": 17806751
     },
     {
-      "cityName": "O Pino",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-12-02T16:16:47.616Z",
-      "notes": "",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
       "position": {
-        "lat": "42.92561416592212",
-        "lng": "-8.305664062500002"
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
       },
-      "id": 2
-    },
-    {
-      "cityName": "Suzak",
-      "country": "Kazakhstan",
-      "emoji": "🇰🇿",
-      "date": "2024-12-02T16:16:54.565Z",
-      "notes": "",
-      "position": {
-        "lat": "45.22922759105907",
-        "lng": "68.55468750000001"
-      },
-      "id": 3
-    },
-    {
-      "cityName": "Bayan",
-      "country": "Mongolia",
-      "emoji": "🇲🇳",
-      "date": "2024-12-02T16:17:08.511Z",
-      "notes": "",
-      "position": {
-        "lat": "49.16330782625322",
-        "lng": "99.140625"
-      },
-      "id": 4
+      "id": 98443197
     }
   ]
 }
