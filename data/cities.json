@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "cityName": "Odena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-03T13:35:52.535Z",
+      "notes": "",
+      "position": {
+        "lat": "41.64122019420698",
+        "lng": "1.6479492187500002"
+      },
+      "id": 1
+    }
+  ]
 }
